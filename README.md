@@ -1,4 +1,4 @@
-# Om Baji 👋
+# Om Baji ⚡
 
 I'm a passionate developer who loves to build scalable and efficient applications. My goal is to create meaningful software that solves real-world problems and makes life easier.
 
