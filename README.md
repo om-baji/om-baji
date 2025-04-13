@@ -18,6 +18,23 @@ I'm a passionate developer who loves to build scalable and efficient application
 - ![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white&style=flat)
 - ![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white&style=flat)
 
+### 🧠 DevOps & Infra  
+- **Containerization & Orchestration:**  
+  ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=flat)  
+  ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?logo=kubernetes&logoColor=white&style=flat)
+
+- **Cloud & Deployment:**  
+  ![AWS EC2](https://img.shields.io/badge/-AWS%20EC2-FF9900?logo=amazon-aws&logoColor=white&style=flat)  
+  ![Auto Scaling](https://img.shields.io/badge/-AWS%20ASG-FF9900?logo=amazon-aws&logoColor=white&style=flat)  
+  ![AMIs](https://img.shields.io/badge/-Amazon%20AMIs-232F3E?logo=amazon-aws&logoColor=white&style=flat)
+
+- **Advanced Backend Communication:**  
+  ![gRPC](https://img.shields.io/badge/-gRPC-3B4CCA?logo=grpc&logoColor=white&style=flat)  
+  ![WebRTC](https://img.shields.io/badge/-WebRTC-333333?logo=webrtc&logoColor=white&style=flat)  
+  ![WebSocket](https://img.shields.io/badge/-WebSocket-010101?logo=websocket&logoColor=white&style=flat)
+
+---
+
 ### Tools & Platforms
 - ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat) ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=flat)
 - ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=flat)
