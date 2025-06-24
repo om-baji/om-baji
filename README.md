@@ -1,6 +1,6 @@
-# Hey there! I'm Om Baji 👋
+<h1 >Om Baji 👋</h1>
 
-<div align="center">
+<div>
 
 ### 🚀 Backend-Focused Full-Stack Developer
 *Building scalable, event-driven systems with clean architecture*
