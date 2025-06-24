@@ -1,56 +1,186 @@
-# Om Baji ⚡
+# Hey there! I'm Om Baji 👋
 
-I'm a passionate developer who loves to build scalable and efficient applications. My goal is to create meaningful software that solves real-world problems and makes life easier.
+<div align="center">
 
----
+### 🚀 Backend-Focused Full-Stack Developer
+*Building scalable, event-driven systems with clean architecture*
 
-## 🛠️ Tech Stack
-
-### Full-Stack Development
-- **Frontend:** ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=flat) ![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white&style=flat) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat) ![TypeScript](https://img.shields.io/badge/-TypeScript-01BAEF?logo=typescript&logoColor=black&style=flat) ![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?logo=tailwind-css&logoColor=white&style=flat)
-- **Backend:** ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=flat) ![Express.js](https://img.shields.io/badge/-Express.js-000000?logo=express&logoColor=white&style=flat) ![Go](https://img.shields.io/badge/-Go-00ADD8?logo=go&logoColor=white&style=flat) 
-- **Databases:** ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=flat) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white&style=flat) ![Redis](https://img.shields.io/badge/-Redis-DC382D?logo=redis&logoColor=white&style=flat)
-
-### Programming Languages
-- ![Go](https://img.shields.io/badge/-Go-00ADD8?logo=go&logoColor=white&style=flat)
-- ![TypeScript](https://img.shields.io/badge/-TypeScript-01BAEF?logo=typescript&logoColor=black&style=flat)
-- ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat)
-- ![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white&style=flat)
-- ![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white&style=flat)
-
-### 🧠 DevOps & Infra  
-- **Containerization & Orchestration:**  
-  ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=flat)  
-  ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?logo=kubernetes&logoColor=white&style=flat)
-
-- **Cloud & Deployment:**  
-  ![AWS EC2](https://img.shields.io/badge/-AWS%20EC2-FF9900?logo=amazon-aws&logoColor=white&style=flat)  
-  ![Auto Scaling](https://img.shields.io/badge/-AWS%20ASG-FF9900?logo=amazon-aws&logoColor=white&style=flat)  
-  ![AMIs](https://img.shields.io/badge/-Amazon%20AMIs-232F3E?logo=amazon-aws&logoColor=white&style=flat)
-
-- **Advanced Backend Communication:**  
-  ![gRPC](https://img.shields.io/badge/-gRPC-3B4CCA?logo=grpc&logoColor=white&style=flat)  
-  ![WebRTC](https://img.shields.io/badge/-WebRTC-333333?logo=webrtc&logoColor=white&style=flat)  
-  ![WebSocket](https://img.shields.io/badge/-WebSocket-010101?logo=websocket&logoColor=white&style=flat)
+[![GitHub followers](https://img.shields.io/github/followers/om-baji?style=social)](https://github.com/om-baji)
+[![LeetCode](https://img.shields.io/badge/LeetCode-glxcier__ae-FFA116?style=flat&logo=leetcode&logoColor=white)](https://leetcode.com/u/glxcier_ae/)
 
 ---
 
-### Tools & Platforms
-- ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat) ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=flat)
-- ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=flat)
-- ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?logo=kubernetes&logoColor=white&style=flat)
-- ![Postman](https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white&style=flat)
-- ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?logo=visual-studio-code&logoColor=white&style=flat)
+*Passionate about designing reliable systems that solve real-world problems and improve developer experience at scale.*
+
+</div>
+
+## 🎯 What I Do
+
+```typescript
+const omBaji = {
+    focus: "Backend Development",
+    passion: ["Scalable Systems", "Event-Driven Architecture", "Clean Code"],
+    goal: "Building systems that developers love to work with",
+    currentlyLearning: "Svelte & Advanced Kubernetes"
+};
+```
+
+## 🛠️ Technology Arsenal
+
+<details>
+<summary><b>🌐 Full-Stack Development</b></summary>
+
+### Frontend Craftsmanship
+```
+React • Next.js • TypeScript • Tailwind CSS • shadcn/ui
+Svelte (Learning) • Modern UI/UX Patterns
+```
+
+### Backend Engineering  
+```
+Spring Boot • Node.js • Express.js • gRPC
+RESTful APIs • GraphQL • Microservices Architecture
+```
+
+### Authentication & Security
+```
+NextAuth.js • JWT • OAuth 2.0 • RBAC
+Spring Security • Session Management
+```
+
+</details>
+
+<details>
+<summary><b>🗄️ Data & Storage</b></summary>
+
+```
+📊 Databases:     MongoDB • PostgreSQL • Redis
+🔧 ORMs:          Prisma • Hibernate • Mongoose  
+💾 Caching:       Redis • In-Memory Caching
+🔍 Search:        Elasticsearch (Learning)
+```
+
+</details>
+
+<details>
+<summary><b>🏗️ Architecture & Messaging</b></summary>
+
+```
+🔄 Event Streaming:    Apache Kafka • Event Sourcing
+🏛️ Patterns:           Microservices • CQRS • Saga Pattern
+🌐 Communication:      REST • gRPC • WebSockets
+📨 Message Queues:     Kafka • RabbitMQ
+```
+
+</details>
+
+<details>
+<summary><b>☁️ DevOps & Cloud</b></summary>
+
+### Containerization & Orchestration
+```
+🐳 Docker • Docker Swarm • Kubernetes
+📦 Container Registries • Multi-stage Builds
+```
+
+### Cloud Infrastructure
+```
+☁️ AWS EC2 • Auto Scaling Groups • AMI Management
+🔧 Infrastructure as Code • Load Balancers
+```
+
+### Observability Stack
+```
+📊 Monitoring:  Grafana • Prometheus • Custom Dashboards
+📝 Logging:     Loki • Structured Logging • Log Aggregation
+🔍 Tracing:     Distributed Tracing • Performance Monitoring
+```
+
+</details>
+
+## 💻 Languages & Tools
+
+<div align="center">
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+
+![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326ce5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)
+
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F2F4F9?style=for-the-badge&logo=grafana&logoColor=orange&labelColor=F2F4F9)
+
+</div>
+
+## 📈 GitHub Analytics
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=om-baji&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=om-baji&layout=compact&langs_count=8&theme=tokyonight"/>
+
+</div>
+
+<div align="center">
+
+![GitHub Streak](https://streak-stats.demolab.com?user=om-baji&theme=tokyonight&border_radius=5)
+
+</div>
+
+## 🎯 Problem Solving
+
+<div align="center">
+
+[![LeetCode Stats](https://leetcode.card.workers.dev/glxcier_ae?theme=dark&font=baloo&extension=null)](https://leetcode.com/u/glxcier_ae/)
+
+</div>
+
+## 🌟 Current Focus
+
+```yaml
+Learning:
+  - Advanced Kubernetes patterns and operators
+  - Svelte for modern frontend development
+  - Event sourcing with Kafka Streams
+
+Building:
+  - Distributed systems with event-driven architecture
+  - Observability-first applications
+  - Developer tooling and experience improvements
+
+Exploring:
+  - Cloud-native patterns
+  - Advanced monitoring and alerting
+  - Performance optimization techniques
+```
+
+## 🤝 Let's Connect & Collaborate
+
+I'm always excited to work on:
+- 🏗️ **Backend-heavy systems** with complex business logic
+- 📊 **Observability pipelines** and monitoring solutions  
+- 🔄 **Distributed architectures** with event streaming
+- 🛠️ **Developer tooling** that improves team productivity
+
+<div align="center">
+
+### 💬 Open for interesting conversations about system design, architecture patterns, and building things that scale!
 
 ---
 
+⭐ *If you find my work interesting, consider giving it a star!*
 
-## 📊 GitHub Stats
-![Om Baji's GitHub Stats](https://github-readme-stats.vercel.app/api?username=om-baji&show_icons=true&theme=dark&hide=issues,contribs)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=om-baji&layout=compact&theme=dark)
-
----
-
-
-Feel free to explore my repositories and reach out if you’d like to collaborate on something exciting!
-
+</div>
